@@ -8,3 +8,5 @@ Once the notes have been taken here I reformat them and then create a cheat shee
 I have linked the OneDrive folder below. Feel free to use these cheat sheets as you see fit :)
 
 https://drive.google.com/drive/folders/1trKakFvI5EsB3GQnPGBeAAmCv57x6N-L?usp=sharing
+
+I also will create a seperate branch with Downloads to .txt versions of the notes whenever I have completed all of them. For now, I will keep them all in the google drive folder.
